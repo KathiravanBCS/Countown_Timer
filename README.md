@@ -1,5 +1,5 @@
 
-### 4. Countdown Timer
+### Countdown Timer
 
 #### **Project Description**  
 A countdown timer application built with React JS. Set a timer for any duration and watch it count down to zero. Perfect for events, workouts, or productivity tracking.
